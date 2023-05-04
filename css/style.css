@@ -342,10 +342,6 @@ svg {
   min-height: var(--height);
 }
 
-#sec--home .section {
-  min-height: 100dvh;
-}
-
 .bg__image {
   position: absolute;
   z-index: -1;
